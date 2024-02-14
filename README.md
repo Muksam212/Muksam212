@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muksam212
-- 👀 I’m interested in Python and it's framework (Django and Flask).
-- 🌱 I’m currently learning Data-Science.
+- 👀 I’m Python Developer and Data-Scientist.
+- 🌱 I’m currently explore more about data science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. you can simply mail me i.e. muksamthebe10@gmail.com
 
