@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muksam212&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Muksamhang Thebe</h1>
 <h3 align="center">A passionate about the Data Science and it's impact on today's world</h3>
 
