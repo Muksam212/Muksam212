@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muksamhang Thebe</h1>
 <h3 align="center">A passionate about the Data Science and it's impact on today's world</h3>
 
-- 🌱 I’m currently learning **Data-Science and FastAPI**
+- 🌱 I’m currently learning **Data-Science**
 
 - 👨‍💻 All of my projects are available at [https://muksamhangthebe.com.np/](https://muksamhangthebe.com.np/)
 
