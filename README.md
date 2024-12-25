@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data-Science**
 
-- 👨‍💻 All of my projects are available at [https://muksamhangthebe.com.np/](https://muksamhangthebe.com.np/)
+- 👨‍💻 My Personal Portfolio [https://muksamhangthebe.com.np/](https://muksamhangthebe.com.np/)
 
 - 📫 How to reach me **muksamthebe10@gmail.com**
 
